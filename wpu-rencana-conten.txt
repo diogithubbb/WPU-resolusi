@@ -4,4 +4,4 @@ RENCANA KONTEN WPU
 - Struktur data dasar
 - PHP frameworks
 - Interview
-- Vlogs
+- Angular
