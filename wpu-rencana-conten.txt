@@ -5,3 +5,5 @@ RENCANA KONTEN WPU
 - PHP frameworks
 - Interview
 - Vlogs
+- Python
+- React
