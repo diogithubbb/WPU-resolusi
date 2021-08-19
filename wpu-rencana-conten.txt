@@ -6,3 +6,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- React
